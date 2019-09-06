@@ -7,7 +7,7 @@ So, the story is not over. My plan for the futures regarding this EA is continue
 So, you can add more  options such as trailing stop break-even print functions, etc ...
 And improve the code to be reliable and  better then ever.
 
-Small advice rgarding magic number.
-I don't believe in any magic. So, I will not spend my time , to find most bether number who will be involved in EA. Don't use this option. Every EA trades fairly well and without this number.
+Small advice regarding magic number.
+I don't believe in any magic. So, I will not spend my time , to find most bether number who will be involved in EA. Don't use this option. Every EA trades fairly well and without this number. If you know what you want, when you plan something to make. Then, there is no problem.
 
 Cheers
