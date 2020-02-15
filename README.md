@@ -2,12 +2,12 @@
 This is full operational EA, along whit the custom indicator. 
 
 Support
-If you have any problems or questions, contact me on:
-drenjanindragan@gmail.com
+
+If you have any problems or questions, contact me on: drenjanindragan@gmail.com
 
 Terms of Use
 
-By using Trend-EA, you understand and agree that the author is not liable or responsible for any loss or damage due to any reason. Although every attempt has been made to assure accuracy, we do not give any express or implied warranty as to its accuracy. We do not accept any liability for error or omission.
+By using Trend-EA, you understand and agree that the author is not liable or responsible for any loss or damage due to any reason. Although every attempt has been made to assure accuracy, I don't give any express or implied warranty as to its accuracy. I don't accept any liability for error or omission.
 
 You acknowledge that you are familiar with these risks and that you are solely responsible for the outcomes of your decisions. We accept no liability whatsoever for any direct or consequential loss arising from the use of this product. You understand and agree that past results are not necessarily indicative of future performance.
 
