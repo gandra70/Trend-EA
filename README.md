@@ -1,7 +1,7 @@
 # Trend-EA
 Introduction
 
-This is full operational EA, along whit the custom indicator. If you want to use this code properly, you need to add a custom indicator to the appropriate folder in the meta editor. Path ( MKL5 / Indicators). This software can be tested in strategy tester on the MT5 Hedge platform only.
+This is full operational EA, along whit the custom indicator. If you want to use this code properly, you need to add a custom indicator to the appropriate folder in the meta editor. Path ( MQL5 / Indicators). This software can be tested in strategy tester on the MT5 Hedge platform only.
 
 Support
 
