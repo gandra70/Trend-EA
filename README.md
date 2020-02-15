@@ -13,7 +13,7 @@ By using Trend-EA, you understand and agree that the author is not liable or res
 
 You acknowledge that you are familiar with these risks and that you are solely responsible for the outcomes of your decisions. I don't accept any liability whatsoever for any direct or consequential loss arising from the use of this product. You understand and agree that past results are not necessarily indicative of future performance.
 
-Use of Trend-EA trading robot serves as your acknowledgment and representation that you have read and understood these TERMS OF USE and that you agree to be bound by such Terms of Use ("License Agreement").
+Use of Trend-EA trading robot serves as your acknowledgment and representation that you have read and understood these TERMS OF USE and that you agree to be bound by such Terms of Use.
 
 License
 
