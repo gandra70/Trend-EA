@@ -5,7 +5,7 @@ This is full operational EA, along whit the custom indicator. This software can 
 
 Support
 
-If you have any problems or questions, contact me on: drenjanindragan@gmail.com
+If you have any problems or questions, contact me on drenjanindragan@gmail.com
 
 Terms of Use
 
