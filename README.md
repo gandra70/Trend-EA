@@ -1,5 +1,7 @@
 # Trend-EA
-This is full operational EA, along whit the custom indicator. 
+Introduction
+
+This is full operational EA, along whit the custom indicator. This software can be tested in strategy tester on the MT5 Hedge platform only.
 
 Support
 
@@ -15,9 +17,7 @@ Use of Trend-EA trading robot serves as your acknowledgment and representation t
 
 License
 
-The project is released under the GNU GPLv3 license, so that means the software is copyrighted, however, you have the freedom to use, change or share the software for any purpose as long as the modified version stays free. See: GNU FAQ.
-
-You should have received a copy of the GNU General Public License along with this program (check the LICENSE file). If not, see http://www.gnu.org/licenses/.
+The project is free to use. So you have the freedom to use, change or share the software for any purpose as long as the modified version stays free. 
 
 Copyright information
 
