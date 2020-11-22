@@ -5,7 +5,7 @@ This is full operational EA, along whit the custom indicator. If you want to use
 
 Support
 
-If you have any problems or questions, contact me on drenjanindragan@gmail.com
+If you have any problems or questions, contact me on https://www.mql5.com/en/users/drgandra
 
 Terms of Use
 
@@ -26,4 +26,3 @@ Trading any financial market involves risk. This Code/Software example is provid
 
 Check out my other robots here ->https://www.mql5.com/en/users/drgandra/seller#products
 
-Watch my youtube channel here - >https://www.youtube.com/channel/UCnPuIaXAWmhKxxN1k5OkMsg
